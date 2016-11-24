@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "es.juntadeandalucia.mapea.sepim.gilena"
+		id          = "es.juntadeandalucia.mapea.sepim.montellano"
 		versionCode = "100" 
 		version     = "1.0.0" >
 
-	<name>Guía de Gilena</name>
+	<name>Montellano Turismo</name>
 	<description>
-		En esta guía encontraras toda la información de interés para visitar Gilena.
+		En esta guía encontraras toda la información de interés para visitar Montellano.
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía
