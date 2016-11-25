@@ -109,7 +109,7 @@ function cargarCategoria(cat){
 	 }).done(function(categoriasList){
 	     	//cat==null->estamos en la primera categoría.
 	     	
-	     	categoriasList.sort(sort_by('name', false));
+	     	//categoriasList.sort(sort_by('name', false));
 	    	
 	    	if (cat==null && categoriasList.length===1){
 	    	 	cargarCategoria(categoriasList[0]);
